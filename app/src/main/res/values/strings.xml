@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Dicoding Submission Belajar Android Interemediate</string>
+    <string name="app_name">Dicoding Submission Android Interemediate</string>
+
+    <string name="image">Imag</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="silahkan_login_terlebih_dahulu">Silahkan Login Terlebih Dahulu</string>
+
+    <string name="shared_preferences">SharedPreferences</string>
+    <string name="key_email">keyEmail</string>
+    <string name="key_password">keyPassword</string>
+
+    <string name="message_error">Tidak Boleh Kosong</string>
+    <string name="lakukan_registrasi">Lakukan Registrasi</string>
 </resources>
